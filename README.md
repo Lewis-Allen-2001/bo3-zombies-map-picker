@@ -1,1 +1,1 @@
-This is a simple app that helps how decide which map to play on black ops 3 zombies.
+This is a simple app that helps you decide which map to play on black ops 3 zombies.
